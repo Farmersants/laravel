@@ -5,6 +5,6 @@
     <title>Document</title>
 </head>
 <body>
- <h1>hell </h1>
+ <h1>hell laravel</h1>
 </body>
 </html>
